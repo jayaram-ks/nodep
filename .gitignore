@@ -1,0 +1,5 @@
+/node_modules
+/nodeapi/node_modules
+/nodeapimongo/node_modules
+/nodeapimongojwt/node_modules
+/nodehttp/node_modules
